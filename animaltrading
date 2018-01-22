@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+  <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+	<div class="main">
+		<h2>African Elephant</h2>
+		<!-- photo credit: animalsadda.com--->
+		<img src="African-Elephant-4_Animalsadda.jpg" alt="African Elephant">
+		<div class="main-content">
+      <p class="animal-trivia">
+				The African elephant is considered the largest land mammal on the entire planet.
+				They are distinct from their Asian relatives by having larger ears that resemble the African continent;
+				they are also slightly larger than the Asian elephants.
+				Other characteristics include highly dexterous trunk and longer curved tusks.
+      </p>
+			<ul>
+				<li><span>Class</span>: Mamalia</li>
+				<li><span>Scientific Name</span>: Loxodonta Africana</li>
+				<li><span>Nick Name</span>: African Elephant</li>
+				<li><span>Average Length</span>: 10 feet upto shoulder</li>
+				<li><span>Average Lifespan</span>: 70 years</li>
+				<li><span>Habitat</span>: Unlike their Asian distant cousins, African elephants are not easily domesticated and
+					they are found throughout the sub-Saharan Africa
+					and also the rain forests of the Central and West Africa</li>
+			</ul>
+
+			<p>
+					African elephants play a very important role in keeping ecological harmony;
+					they ingest plants and fruits, walk for miles and excrete the seeds in a pile of fertile dung making
+					new plants grow in different areas. 90 different species of plants rely on elephants for propagation.
+					Additionally, through digging of holes using their tusks,elephants can expose underground
+					springs allowing other animals to access water.
+			</p>
+
+      <p>
+				Although there are approximately 470,000 African elephants roaming around the sub-Saharan parts of the
+				African continent, the species is endangered according to a range of reliable studies done on the
+				elephants. They are hunted down mainly due to their tusks that are seen as very valuable item within
+				and beyond the African borders. The other risk is the constantly changing climatic conditions that are
+				unfavorable for their living conditions especially their sensitive skins.
+
+				This calls for conservation measures aimed at protecting the African elephant to ensure their survival.
+      </p>
+		</div>
+	</div>
+</body>
+</html>
